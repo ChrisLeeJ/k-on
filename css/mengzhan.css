@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Microsoft YaHei", Arial, Helvetica, sans-serif;
+}
+.frame_div {
+    position: relative;
+    z-index: 1;
+    margin: auto;
+    width: 100%;
+}
+.footer_div{
+    width: 100%;
+    height: 100px;
+    position: relative;
+    bottom: 78px;
+    margin: auto;
+}
+.abc{
+    width: 940px;
+    border: 0;
+    margin: 0 auto;
+    position: relative;
+    top: 40px;
+}
+.body_img{
+    background-image: url("../image/body2.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.container{
+    width: 100%;
+    margin: auto;
+    position: relative;
+    bottom: 78px;
+    z-index: 0;
+    background-color: antiquewhite;
+    height: 5320px;
+}
+.h1{
+    text-align: center;
+}
+.body{
+    width: 90%;
+    margin: auto;
+}
+.em{
+    text-indent: 2em;
+}
+.lingwu1{
+    width: 100%;
+    position: relative;
+    float: left;
+}
+.lingwu{
+    width: 50%;
+    position: relative;
+    float: left;
+}
+.lingwuimg{
+    width: 50%;
+    position: relative;
+    float: left;
+    margin: auto;
+}
